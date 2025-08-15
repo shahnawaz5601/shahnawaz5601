@@ -1,0 +1,34 @@
+h3{
+    text-align:center;
+}
+h3{
+    background-color: teal;
+    border-radius: 12px;
+    text-decoration: underline;
+}
+h2{
+    text-align:center;
+    color: indianred;
+}
+a{
+    text-decoration: none;
+    text-decoration: underline dotted;
+    font-weight: bold;
+    font-style: italic;
+    text-transform: capitalize;
+}
+#mheading{
+    text-align: center;
+    color: rgba(42, 139, 224, 0.284);
+    font-family: "Times Now Roman";
+}
+#outer{
+    font-size: 25px;
+    background-color: rgb(62, 69, 215);
+    border-radius: 4px;
+}
+#inner{
+    font-size: 20px;
+    background-color: steelblue;
+    border-radius: 4px;
+}

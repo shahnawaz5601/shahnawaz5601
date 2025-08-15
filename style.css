@@ -1,0 +1,27 @@
+h1{
+    color:magenta;
+}
+
+p{
+    color:teal;
+}
+button{
+    color:yellowgreen;
+    background-color: #00ff99;
+}
+/* body{
+    background-color: rgb(255, 144, 245);
+} */
+
+*{
+    color: pink;
+}
+#headingOne{
+    color: magenta;
+}
+div{
+    background-color: blue;
+}
+#butan{
+    background-color: green;
+}
