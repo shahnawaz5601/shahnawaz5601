@@ -1,0 +1,41 @@
+#newDiv{
+    height:100px;
+    width: 100px;
+    border-radius: 50%;
+    background-color: blueviolet;
+}
+#navBar{
+    height: 60px;
+    background-color: #0f1111;
+    width: 1700px;
+    color: white;
+}
+button{
+    background-color: #f08804;
+}
+
+#logo{
+    background-color: #f08804;
+    border-radius: 3%;
+}
+a{
+    padding-left: 0px;
+    margin-right: 200px;
+    margin-left: 4px;
+}
+#acc{
+    color: white;
+}
+#foot{
+    color: rgba(25,0,6,1);
+    margin-top: 700px;
+    background-color: rgb(245, 48, 146);
+    text-align: center;
+}
+.contentBox{
+    height: 100px;
+    width: 100px;
+    border: 2px solid indianred;
+    margin: 10px;
+    display: inline-block;
+}

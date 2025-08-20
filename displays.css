@@ -1,0 +1,22 @@
+button{
+    color: black;
+}
+div{
+    color: aqua;
+    background-color: maroon;
+    height: 100px;
+    width: 100px;
+    display: inline-block;
+    margin: 10px;
+    padding: 25px;
+}
+h3{
+    display: inline;
+    background-color: yellow;
+}
+#box1{
+    display: none;
+}
+#newBox{
+    background-color: rgba(234,6,2,0.5);
+}
