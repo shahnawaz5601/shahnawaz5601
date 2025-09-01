@@ -1,0 +1,33 @@
+div{
+    height: 100px;
+    width: 100px;
+    background-color: mediumaquamarine;
+    border: 3px solid rgb(41, 31, 59);
+    margin: 2px;
+    display: inline-block;
+    position: relative;
+    top: 10px;
+}
+
+#box2{
+    position: relative;
+    top: 20px;
+    z-index: 1;
+}
+#box3{
+    position: absolute;
+    top: 10px;
+    left: 4px;
+    z-index: -1;
+}
+
+#box4{
+    position: fixed;
+    bottom: 20px;
+}
+#box1{
+    position: sticky;
+    left: 500px;
+    background-image: url("looking nice.png");
+    background-size: cover;
+}
